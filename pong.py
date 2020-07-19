@@ -1,5 +1,5 @@
 # Simple Pong in Python 3 for Beginners
-# By @TokyoEdTech
+# By @Kaushtub Gautam
 
 import turtle
 import os
